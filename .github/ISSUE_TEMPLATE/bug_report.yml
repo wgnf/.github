@@ -6,11 +6,10 @@ assignees: ["wgnf"]
 body:
   - type: markdown
     attributes:
-      value: |
-        Thanks for taking the time to file a bug report. Please make sure that aren't any issues open for the same issue/bug/topic.
+      value: Thanks for taking the time to file a bug report. Please make sure that aren't any issues open for the same issue/bug/topic.
   
   - type: textarea
-    id: bug-description
+    id: description
     attributes:
       label: Description of the bug
       description: Please give a brief description of what happened and what should have happened.
