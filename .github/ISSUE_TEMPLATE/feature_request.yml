@@ -1,7 +1,8 @@
 name: 🆕 Feature Request
 description: Request a new feature/enhancement
-labels: ["enhancement"]
 title: "[FEAT]: "
+labels: ["enhancement"]
+assignees: ["wgnf"]
 body:
   - type: markdown
     attributes:
